@@ -38,7 +38,7 @@ DateTimePickerDialogSpinnerRange(applicationContext,supportFragmentManager,true,
 ¡Las contribuciones son bienvenidas! Si tienes alguna mejora o encuentras un problema, por favor abre un issue o envía un pull request.
 
 ## Licencia
-Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+Este proyecto está bajo la Licencia APACHE. Consulta el archivo LICENSE para más detalles.
 
 #
 
@@ -78,6 +78,6 @@ DateTimePickerDialogSpinnerRange(applicationContext,supportFragmentManager,true,
 Contributions are welcome! If you have any improvements or find an issue, please open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the APACHE License. See the LICENSE file for details.
 
 ![Not found](/DateTimePickerSpinnerRangeLibrary/assets/images/CapturaNormal.png) ![Not found](/DateTimePickerSpinnerRangeLibrary/assets/images/Captura2horas5minutos.png) ![Not found](/DateTimePickerSpinnerRangeLibrary/assets/images/Captura4horas10minutos.png)
