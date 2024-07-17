@@ -3,7 +3,7 @@
 ## Descripción
 Esta biblioteca permite modificar el componente TimePicker de Android para agregarle tres tipos de rangos personalizados para las horas y los minutos. Con esta herramienta, podrás ajustar el selector de tiempo a tus necesidades específicas de una manera sencilla y eficiente.
 
-![Not found](https://img.shields.io/badge/Maven%20Central-1.0.0-orange?link=https%3A%2F%2Fcentral.sonatype.com%2Fartifact%2Fio.github.jesus24041998%2FDateTimePickerSpinnerRangeLibrary)
+[![Not found](https://img.shields.io/badge/Maven%20Central-1.0.0-orange)](https://central.sonatype.com/artifact/io.github.jesus24041998/DateTimePickerSpinnerRangeLibrary)
 
 ## Características
 
